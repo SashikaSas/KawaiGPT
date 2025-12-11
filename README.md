@@ -18,7 +18,7 @@ Forum: [Telegram](https://t.me/kawaiigpt_official)
 apt-get update && apt-get upgrade (if not updated and upgraded)
 apt install python3 && apt install python3-pip
 apt install git
-git clone https://github.com/MrSanZz/KawaiiGPT
+git clone https://github.com/SashikaSas/KawaiGPT
 cd KawaiiGPT
 python3 install.py
 python3 kawai.py
@@ -30,7 +30,7 @@ python3 kawai.py
 pkg update && pkg upgrade (if not updated and upgraded)
 pkg install python3
 pkg install git
-git clone https://github.com/MrSanZz/KawaiiGPT
+git clone https://github.com/SashikaSas/KawaiGPT
 cd KawaiiGPT
 python3 install.py
 python3 kawai.py
